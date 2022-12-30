@@ -1,5 +1,8 @@
 # README
 
+## Dogs API
+This project is a test of Wails, made with the tutorial on their website : https://wails.io/docs/tutorials/dogsapi
+
 ## About
 
 This is the official Wails React-TS template.
